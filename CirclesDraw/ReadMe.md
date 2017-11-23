@@ -5,7 +5,7 @@
 #### Circle packing
 ![alt text](https://raw.githubusercontent.com/robintwhite/Processing/master/CirclesDraw/walle_packing.png)
 
-### Save each frame to created animated gif
+### Save each frame to create animated gif
 #### Original image
 ![alt text](https://raw.githubusercontent.com/robintwhite/Processing/master/CirclesDraw/walle.jpeg)
 
